@@ -1,0 +1,54 @@
+
+body {
+    background:url(/css/img/back.jpg);
+    overflow-x:  hidden;
+    background-attachment: fixed;
+}
+
+.bg-primary {
+background:linear-gradient(seagreen,rgba(135, 207, 235, 0.836)) !important;
+
+}
+
+.nav-item:hover
+{
+    font-size: large;
+    padding:7px;
+    background-color:seagreen !important;
+}
+
+#statisticki {
+
+border-bottom:solid black 1px;
+
+}
+
+.card-header {
+    text-align: center;
+    font-size: x-large !important;
+}
+
+.navbar-brand {
+    font-size:xx-large ;
+}
+
+.card {
+    height: 220px !important;
+     margin: 30px;
+}
+
+.jumbotron {
+    padding-left: 4%;
+    background-color:rgba(7, 7, 7, 0.911);
+}
+
+.display-2 {
+    text-align: center;
+}
+
+h1
+{
+    font-size:7em;
+}
+ 
+svg {margin: 50px;}
